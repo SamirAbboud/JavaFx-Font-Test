@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cairo';
+    src: url('fonts/Cairo-Regular.ttf');
+}
+
+.label {
+    -fx-font-family: 'Cairo';
+    -fx-font-size: 50;
+}
+
+.button .text {
+    -fx-font-family: 'Cairo';
+}
